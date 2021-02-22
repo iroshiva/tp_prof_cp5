@@ -7,9 +7,7 @@ Un MCD et un MLD ont été effectués
 
 Rélaisation du MCD avec MOCODO.<br/>
 
-USER: name, password
-
-CREE, 01 PROJECT, 0N USER
+> USER: name, password<br/>CREE, 01 PROJECT, 0N USER
 
 PROJECT: title, content, project reference, moa, moe, date, mission, performance, size, cost, role
 
